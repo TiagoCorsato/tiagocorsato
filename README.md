@@ -1,4 +1,4 @@
-[![Portfolio](https://github.com/TiagoCorsato/tiagocorsato/assets/144154772/25285c48-6f2b-4507-af76-7702ff2ac1c3)](https://tiagoalvarengacors.wixsite.com/my-site)
+[![Portfolio](https://github.com/TiagoCorsato/tiagocorsato/assets/144154772/25285c48-6f2b-4507-af76-7702ff2ac1c3)](https://tiagocorsato.wixsite.com/portfolio)
 
 ## About Me
 I am a developer specialized in video games, with a background in Programming for Games, Web & Mobile from Vancouver Film School. I have experience with programming languages such as C#, C++, and development engines like Unity and Unreal Engine. I'm also curretly studying Data Science and Artificial Inteligence at PUC Minas Gerais.
